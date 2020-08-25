@@ -11,3 +11,6 @@ D:\Github_Repositories\TrueCoders\MadLibsGame\MadLibsGame\bin\Debug\netcoreapp3.
 D:\Github_Repositories\TrueCoders\MadLibsGame\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.dll
 D:\Github_Repositories\TrueCoders\MadLibsGame\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.pdb
 D:\Github_Repositories\TrueCoders\MadLibsGame\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.genruntimeconfig.cache
+D:\Github_Repositories\TrueCoders\MadLibsGame\MadLibsGame\bin\Debug\netcoreapp3.1\Custom.dll
+D:\Github_Repositories\TrueCoders\MadLibsGame\MadLibsGame\bin\Debug\netcoreapp3.1\Custom.pdb
+D:\Github_Repositories\TrueCoders\MadLibsGame\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.csproj.CopyComplete
