@@ -19,7 +19,7 @@ namespace MadLibsGame
 
             string[] sentences =
             {
-                $"Did you hear about what {name} did near the {place}? They said he {verb} his {noun} a little too hard last night.",
+                $"Did you hear about what {name} did near the {place}? They said he {verb} their {noun} a little too hard last night.",
                 $"I wonder how {name} feels about how Chad {verb} his {noun} behind the {place}.", 
                 $"You see that {place}, thats where {name} {verb} with a {noun}a few days ago.",
                 $"I told {name} to move thier {noun}, but they didn't, so I {verb} their {noun} all the way to the {place}", 
